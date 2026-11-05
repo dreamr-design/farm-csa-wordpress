@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title><![CDATA[Bramblecut Farm]]></title>
+  <link>https://example.org</link>
+  <description><![CDATA[A small organic farm: CSA farm-share boxes, farm stand, farm dinners]]></description>
+  <language>en-US</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://example.org</wp:base_site_url>
+  <wp:base_blog_url>https://example.org</wp:base_blog_url>
+  <wp:author>
+    <wp:author_id>1</wp:author_id>
+    <wp:author_login><![CDATA[admin]]></wp:author_login>
+    <wp:author_display_name><![CDATA[Bramblecut Farm]]></wp:author_display_name>
+  </wp:author>
+  <item>
+    <title><![CDATA[Bramblecut Farm]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[home]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+  </item>
+  <item>
+    <title><![CDATA[Shares and pricing]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>2</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[pricing]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+  </item>
+  <item>
+    <title><![CDATA[About the farm]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>3</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[about]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+  </item>
+  <item>
+    <title><![CDATA[Write to the farm]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>4</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[contact]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+  </item>
+  <item>
+    <title><![CDATA[Farm notes]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>5</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[blog]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+  </item>
+  <item>
+    <title><![CDATA[14,000 cloves by hand: garlic planting week]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>Every year, in the third week of October, the crates get lighter and the field crew gets busier. The last crate of the season goes out tomorrow, and this week the five of us, eleven volunteers and one very patient dog are on our knees in the south beds, planting next summer's garlic one clove at a time. By Saturday night about 14,000 cloves will be in the ground.</p>
+<p>Garlic is the one crop we plant in one year and harvest in the next. It goes in now, puts down roots before the ground freezes, sleeps under the snow all winter, and comes up green in March. You meet it in your crates three times: green garlic in early June, curly scapes at the end of June, and cured heads from mid-July on.</p>
+
+<h2>Saving our own seed</h2>
+<p>We have not bought seed garlic since 2015. Every July, when we pull the crop, Mae and I walk the drying racks in the barn and set aside the biggest, best-shaped heads before a single one goes into a crate. Those heads hang apart all summer, and in October they become next year's crop. Eleven years of keeping the best has turned a mail-order variety into garlic that knows this hill.</p>
+<p>This fall we are planting four varieties:</p>
+<ul>
+  <li>Music, a white hardneck and our main crop, about 60% of the beds;</li>
+  <li>German Red, hot and purple-streaked, the one Dev asks for by name;</li>
+  <li>Chesnok Red, which roasts sweeter than anything else we grow;</li>
+  <li>Inchelium Red, a softneck that keeps in a cool kitchen until March.</li>
+</ul>
+
+<h3>Cracking, sorting, planting</h3>
+<p>The first job is cracking: breaking every head into cloves without tearing the papery skin. It happens around the long table in the packing shed, with coffee, and it is the most talkative day of the year. Small cloves go to the kitchen for the farm dinners. Only the big ones get planted, because a big clove grows a big head.</p>
+<p>Then the beds, in the same order every year:</p>
+<ol>
+  <li>Mark four rows a bed, six inches between cloves, with the rolling dibbler Tomás built from an old water tank.</li>
+  <li>Push each clove in by hand, pointed end up, two inches deep.</li>
+  <li>Close the bed and rake it smooth.</li>
+  <li>Lay four inches of straw the week the ground first freezes.</li>
+</ol>
+
+<blockquote>
+  <p>Garlic is the patient crop. You plant it in the cold, you forget it for five months, and in March it is the first green thing on the hill, like it was waiting up for you.</p>
+</blockquote>
+
+<h2>What the straw is for</h2>
+<p>Garlic does not mind the cold. It minds the thaw. A bare bed in a Driftless winter freezes and thaws a dozen times, and every cycle heaves cloves up out of the soil, where they dry out and die. Four inches of straw keeps the ground frozen once it freezes, so the cloves stay put until spring.</p>
+
+<figure>
+  <img src="{theme:asset:img/veg/garlic.svg}" alt="Screenprinted head of Music garlic in red and green ink" width="240" height="240">
+  <figcaption>Music hardneck, cured in the barn rafters since July. The heads we save for seed are the biggest on the rack.</figcaption>
+</figure>
+
+<p>If you are a member, the garlic in tomorrow's crate came off the same racks as this seed. Keep it cool, dark and dry, never in the fridge, and it will see you into the new year.</p>
+<p>Want to see the beds before the straw goes on? Come down the lane this Saturday. We plant from 9 until we run out of cloves. <a href="{theme:url:/contact/}">Write to the farm</a> so we know how much soup to make, and if you want garlic from these beds next July, <a href="{theme:url:/pricing/}">2027 shares</a> open on February 1.</p>
+<p><em>Rosa Beltrán, field crew lead</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[The last crate goes out tomorrow and next summer's garlic goes in this week. How we pick the seed heads, and why every clove is planted on our knees.]]></excerpt:encoded>
+    <wp:post_id>6</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[garlic-planting-week]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/garlic.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Six squash, six ways: a cook's guide to the October crate]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>Every October the crate gets heavy, and most of the weight is squash. We grow six kinds in the field below the dinner table, and every Thursday somebody at the pickup holds one up and asks what on earth to do with it. So here is the cheat sheet I keep taped inside the field kitchen door, one squash at a time, in the order you will meet them.</p>
+
+<h2>Eat these first</h2>
+<p><strong>Delicata.</strong> The striped one. Thin skin, so you eat it skin and all. Slice it into half-inch rings, scoop the seeds with a spoon, toss with oil and salt, and roast at 425 for 20 minutes, flipping once. Finish with hot honey. It keeps about two weeks on the counter, so it goes first.</p>
+<p><strong>Acorn.</strong> Dark green and ridged. Halve it, roast it cut side down until it gives when you press it, then fill the hollow with butter and maple, or with sausage and the last of the kale.</p>
+<p><strong>Spaghetti.</strong> The pale yellow football. Roast it whole, poked a few times with a knife, for an hour. Rake the inside with a fork and it falls into strands. Treat it like pasta, not like squash, and nobody at your table will complain.</p>
+
+<h2>These can wait</h2>
+<p><strong>Kabocha.</strong> Squat and grey-green, and my favorite. It is dry and dense, almost like chestnut, and it wants a hot oven: 450, in wedges, skin on. The skin goes soft and you can eat it.</p>
+<p><strong>Butternut.</strong> You know this one. It keeps three months somewhere cool. Soup, risotto, or cubes roasted until the edges go black.</p>
+<p><strong>Blue Hubbard.</strong> The giant. It needs three more weeks on your counter before it is sweet, so do not cut it yet. When you do, use a cleaver, or drop it on the driveway inside a paper bag. We are serious. Roast the pieces, scoop the flesh, and you have pie filling for the whole winter.</p>
+
+<blockquote>
+  <p>The rule of thumb: the thinner the skin, the sooner you eat it. If your thumbnail goes in, cook it this week.</p>
+</blockquote>
+
+<h2>Storing them</h2>
+<p>Never the fridge. Squash likes it around 55 degrees and dry, so a closet floor or a basement shelf is perfect. Keep them apart so they do not touch, and check them on Sundays. A soft spot means that one goes in the oven tonight.</p>
+<p>All six of these come to the table at the Harvest Supper on October 10, smoked over apple wood and served with cider pressed that afternoon. A few seats are left: <a href="{theme:url:/contact/}">write to the farm</a> and we will hold one for you.</p>
+<p><em>Dev Anand, chef, farm dinners</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[Delicata you eat skin and all, kabocha that wants a hot oven, and the one that needs three more weeks on your counter. A cheat sheet from the field kitchen.]]></excerpt:encoded>
+    <wp:post_id>7</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-07 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-07 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[six-squash-six-ways]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/squash.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Seven minutes of hail, and what the peppers did next]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>At 4:12 on the afternoon of September 8 the sky over the west ridge went the color of a bruise, and at 4:19 it was over. In between, hail the size of chickpeas came down the hollow sideways. Seven minutes. I timed it from the doorway of the machine shed, because there was nothing else to do.</p>
+<p>When it stopped, Rosa and I walked the field in our boots. Here is what we found.</p>
+
+<h2>What we lost</h2>
+<p>Two beds of Carmen sweet peppers on the upper terrace took it straight on. Leaves stripped to the veins, fruit split open, stems snapped where the plants were heaviest. That is about 900 plants and maybe four weeks of peppers. The fall lettuce in the next bed is shredded too, but lettuce grows back. Peppers in September do not.</p>
+<p>We also lost most of the sunflowers along the lane, which hurt more than it should have. They were just for looking at.</p>
+
+<h2>What we saved</h2>
+<p>The tomatoes. The storm came in on a line, and the field tomatoes sit one fence line east of the peppers. They got rain and wind and almost no ice. The high tunnels did their job: the plastic has a few dents and not one hole.</p>
+<ul>
+  <li>The squash field was untouched; the leaves were already dying back, so there was little to hit.</li>
+  <li>The roots were safe in the ground, as roots usually are.</li>
+  <li>The peppers on the lower terrace, half the crop, were sheltered by the windbreak we planted in 2018.</li>
+</ul>
+
+<blockquote>
+  <p>You plant a windbreak for a storm you will see once in eight years. This was the year.</p>
+</blockquote>
+
+<h2>Why your crate barely noticed</h2>
+<p>This is what a CSA is for. We plant 140 varieties so that no single storm can empty a crate. The week after the hail, Full shares got two fewer peppers and an extra pound of tomatoes from the tunnel. Half shares got the same peppers they always do, because Juniper packs the Half shares first.</p>
+<p>We did not spray, and we will not. The damaged plants are cut back and composted, and the bed has been sown to winter rye, which will hold the soil and feed it until spring. In April those beds become onions.</p>
+<p>Thank you to everyone who wrote that night. Members carry the weather with us, and that is the whole deal. If you want to share next year's weather, <a href="{theme:url:/pricing/}">2027 shares</a> open February 1.</p>
+<p><em>Tomás Rivera, co-owner, soil and machines</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[The storm on September 8 shredded two beds of sweet peppers and missed the tomatoes by one fence line. What we lost, what we saved, and why your crate barely noticed.]]></excerpt:encoded>
+    <wp:post_id>8</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-16 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-16 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[seven-minutes-of-hail]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/pepper.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Twelve heirlooms, one long table: notes from the Tomato Supper]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>The Tomato Supper sold out in four days this year, which tells me two things. People want to eat tomatoes in a field, and I should have set more seats. On Saturday, August 22, forty of you sat at one long table between the squash rows, and Dev cooked five courses around a single fruit. Here is how it went.</p>
+
+<h2>Choosing twelve</h2>
+<p>We grow thirty-one kinds of tomato. Choosing twelve for one dinner is the hardest planning I do all year, and I plan the whole farm. In January I make a list of every variety that ripens in the third week of August, then Dev and I taste last year's notes out loud and argue. These made the table:</p>
+<ul>
+  <li>Cherokee Purple and Paul Robeson, the two dark ones, smoky and rich;</li>
+  <li>Green Zebra, sharp enough to wake up a plate;</li>
+  <li>Sungold, the cherry that never makes it back to the barn;</li>
+  <li>Brandywine, Pineapple and Striped German, the three big slicers;</li>
+  <li>Black Krim, Amish Paste, Jaune Flammée, Speckled Roman and Wapsipinicon Peach.</li>
+</ul>
+
+<h2>Five courses</h2>
+<p>Dev started with tomato water, the clear juice of twelve varieties strained overnight, served cold in jam jars. Then a salad of every slicer, cut thick, with nothing but salt and our own oil. Then the Green Zebra gazpacho, the roasted Amish Paste over polenta, and for dessert a Sungold sorbet that three guests asked for the recipe to. He will not give it out.</p>
+
+<blockquote>
+  <p>A tomato in August needs a knife, salt and a table. Everything else is a cook trying to show off, and I was showing off on purpose.</p>
+</blockquote>
+
+<h2>The wet tablecloth</h2>
+<p>At 8:40, just as the sorbet went out, a cloud we had all ignored opened over the table. Forty people picked up their bowls and walked into the high tunnel, where we finished dessert standing among the very plants we had been eating. Nobody left. The tablecloth is still drying in the barn.</p>
+
+<h2>Two for every bed</h2>
+<p>We asked every guest to vote for one variety on a crate tag. Sungold won, as it always does. The surprise was Wapsipinicon Peach, a small fuzzy yellow tomato from Iowa that took eleven votes. Both go into every tomato bed next year, so they will be in your crates by August.</p>
+<p>The Harvest Supper on October 10 still has a few seats. <a href="{theme:url:/contact/}">Write to the farm</a> to hold one.</p>
+<p><em>Mae Lindqvist, co-owner and grower</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[Forty guests, five courses and one very wet tablecloth. How we picked the twelve varieties, and the two going into every bed next year.]]></excerpt:encoded>
+    <wp:post_id>9</wp:post_id>
+    <wp:post_date><![CDATA[2026-08-26 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-08-26 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[the-tomato-supper]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/tomato.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Keep the crate crisp: storing roots and greens]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>The question I hear most at the Thursday pickup is not about recipes. It is "how do I keep all this alive until next week?" The answer is about ten minutes of work the night you bring the crate home. Do these things before you put your feet up, and next Wednesday's kale will still snap.</p>
+
+<h2>Roots: cut the tops tonight</h2>
+<p>Beets, carrots, radishes and turnips all come with their leaves on, because the leaves are good to eat and they tell you how fresh the root is. But leaves keep pulling water out of the root, so the root goes soft in days. Twist or cut the tops off, leaving an inch of stem, the night you get home.</p>
+<ul>
+  <li>Roots go in a bag in the crisper drawer. Beets keep a month, carrots three weeks.</li>
+  <li>Greens go in a separate bag with a damp towel, and get cooked within three days. Beet greens are chard by another name.</li>
+  <li>Radish tops wilt fastest. Make them into pesto the first night.</li>
+</ul>
+
+<h2>Greens: wash, spin, wrap</h2>
+<p>Lettuce, kale and chard last longest when they go into the fridge clean and nearly dry. Swish them in a sink of cold water, spin them, and roll them loosely in a dish towel inside a bag. Head lettuce from our tunnel keeps a full week like this. Kale keeps two.</p>
+<p>If a bunch has gone limp, it is not lost. Cut the ends and stand it in a glass of cold water in the fridge for an hour. It drinks and stands back up.</p>
+
+<blockquote>
+  <p>The fridge is not where vegetables go to wait. It is where they go to rest after you have done your part.</p>
+</blockquote>
+
+<h2>Never the fridge</h2>
+<p>Tomatoes, garlic, onions, potatoes and winter squash stay out. Tomatoes lose their flavor below 50 degrees. Potatoes turn sweet and gritty. Keep them in a dark, cool spot, away from the onions, which make potatoes sprout.</p>
+
+<h2>Herbs like flowers</h2>
+<p>Basil sits on the counter in a jar of water, like a bouquet, out of the sun. Parsley and cilantro do the same thing in the fridge with a bag over the top.</p>
+<p>That is the whole system. Every crate comes with a recipe card, and if a vegetable stumps you, ask whoever is at the pickup table: we have all been there. And if you are not a member yet, the <a href="{theme:url:/pricing/}">Stand Card</a> lets you try a few crates first.</p>
+<p><em>Juniper Hale, CSA and farm stand</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[Cut the beet tops the day you get home and the beets keep a month. A one-page guide to making Thursday's crate last until the next one.]]></excerpt:encoded>
+    <wp:post_id>10</wp:post_id>
+    <wp:post_date><![CDATA[2026-07-22 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-07-22 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[keep-the-crate-crisp]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/beet.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[The first crates are radishes. Here is what to do with twenty of them.]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>Week one is strawberries and lettuce. Week two is radishes. A lot of radishes. They are the first root we can pull in the Driftless spring, they come up in 25 days, and for a few weeks every June they are most of what the hill has to give. So last Thursday I put a stack of index cards on the pickup table and asked you for your best radish trick. Here are the five that came back most.</p>
+
+<h2>1. Butter, salt, bread</h2>
+<p>The French way, and the way most of you wrote in. Slice the radishes thin, lay them on bread spread thick with good salted butter, and add flaky salt. That is it. The butter calms the bite. Eat it standing at the counter.</p>
+
+<h2>2. Roasted</h2>
+<p>A roasted radish tastes nothing like a raw one. Halve them, toss with oil and salt, and roast at 425 for 20 minutes until the cut sides brown. They go soft and sweet, like a small turnip. Toss the greens into the hot pan for the last minute.</p>
+
+<h2>3. Quick pickle</h2>
+<p>Slice them into a jar. Heat a cup of vinegar, a cup of water, a spoonful of sugar and a spoonful of salt until it dissolves, and pour it over. They are ready in an hour and keep a month, and they turn the whole jar pink. Priya from the La Crosse pickup adds a garlic scape.</p>
+
+<h2>4. Radish top pesto</h2>
+<p>The leaves are the best part, and most people throw them out. Blend two big handfuls with garlic, a handful of toasted sunflower seeds, hard cheese, lemon and olive oil. It is peppery and green and it goes on everything, eggs included.</p>
+
+<h2>5. In the salad, grated</h2>
+<p>Grated on the big holes of a box grater and tossed with the week's lettuce, a little honey and lemon, radish stops being a crunchy surprise and starts being a dressing.</p>
+
+<blockquote>
+  <p>Radishes are the farm saying hello. They are loud and a little rude and gone in a month, so enjoy them.</p>
+</blockquote>
+
+<p>Next week brings snap peas and the first kale, and the radishes ease off until the fall crop in September. Keep the cards coming. The best ones go on the recipe card in your crate, with your name on it.</p>
+<p>New to the crates? Every share size and pickup town is on the <a href="{theme:url:/pricing/}">shares page</a>.</p>
+<p><em>Juniper Hale, CSA and farm stand</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[Roast them, pickle them, or butter them on toast like the French. Five ways through a June crate, sent in by members at the pickup table.]]></excerpt:encoded>
+    <wp:post_id>11</wp:post_id>
+    <wp:post_date><![CDATA[2026-06-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-06-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[twenty-radishes]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/radish.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Forty rows of seed potatoes, and why we wait for the oaks]]></title>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <content:encoded><![CDATA[<p>Every farmer in Vernon County has a rule for when potatoes go in. My father-in-law's was Good Friday. Walt, who rented us our first acre, said you plant potatoes when the oak leaves are the size of a squirrel's ear. Walt was right more often, so we wait for the oaks. This year they got there on Monday, and by Saturday forty rows of seed potatoes will be in the ground on the east slope.</p>
+
+<h2>Cutting the seed</h2>
+<p>A seed potato is just a potato. You plant a piece of last year's crop and it grows a plant that makes ten more. We bring in 1,800 pounds of certified organic seed each spring, in four varieties:</p>
+<ul>
+  <li>Red Norland, early and waxy, the first new potatoes in your July crates;</li>
+  <li>Yukon Gold, the all-rounder;</li>
+  <li>Kennebec, a white baker that keeps until March;</li>
+  <li>Adirondack Blue, which stays blue when you cook it and makes children eat potatoes.</li>
+</ul>
+<p>Anything bigger than an egg gets cut so every piece has two or three eyes. Then the pieces sit on screens in the barn for three days so the cut sides dry and form a skin. A cured piece does not rot in cold soil. An uncured one does.</p>
+
+<h2>The planter</h2>
+<p>Our potato planter is older than everyone on the crew put together. It is a two-row hopper from 1951 that Tomás found in a fencerow in 2016, pulled behind the 1958 tractor. Two people ride on the back and drop a piece into each cup as the chain goes round. It is slow and loud, and it plants an acre a day.</p>
+
+<blockquote>
+  <p>The tractor needs a push to start, the planter needs a hammer to adjust, and between them they have never missed a spring.</p>
+</blockquote>
+
+<h2>Hilling, and waiting</h2>
+<p>Three weeks after planting, the first leaves break the soil and we start hilling: pulling soil up over the stems so the new potatoes form in the dark. Potatoes that see light turn green and bitter. We hill twice, in June and early July, and in between we walk the rows looking for the striped beetles that love potato leaves as much as we do. We pick them by hand into a can of soapy water.</p>
+<p>The first new potatoes come out in the second week of July. Thin skins, no peeling, boiled and buttered. If you want them in your crate, there are still Half and Full <a href="{theme:url:/pricing/}">shares</a> for the season that starts June 10.</p>
+<p><em>Tomás Rivera, co-owner, soil and machines</em></p>]]></content:encoded>
+    <excerpt:encoded><![CDATA[Potatoes go in when the oak leaves are the size of a squirrel's ear. How we cut and cure 1,800 pounds of seed, and the old tractor that plants them.]]></excerpt:encoded>
+    <wp:post_id>12</wp:post_id>
+    <wp:post_date><![CDATA[2026-05-06 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-05-06 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[seed-potatoes]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[theme_cover]]></wp:meta_key>
+      <wp:meta_value><![CDATA[img/veg/potato.svg]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+</channel>
+</rss>

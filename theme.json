@@ -1,0 +1,134 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "defaultPalette": false,
+      "defaultGradients": false,
+      "defaultDuotone": false,
+      "palette": [
+        {
+          "slug": "kraft",
+          "name": "Kraft",
+          "color": "#e2d3b4"
+        },
+        {
+          "slug": "kraft-2",
+          "name": "Kraft 2",
+          "color": "#d4c29d"
+        },
+        {
+          "slug": "packet",
+          "name": "Packet",
+          "color": "#f7f0de"
+        },
+        {
+          "slug": "line",
+          "name": "Line",
+          "color": "#b7a27a"
+        },
+        {
+          "slug": "soil",
+          "name": "Soil",
+          "color": "#1f2b20"
+        },
+        {
+          "slug": "soil-2",
+          "name": "Soil 2",
+          "color": "#4f4733"
+        },
+        {
+          "slug": "tomato",
+          "name": "Tomato",
+          "color": "#d4432a"
+        },
+        {
+          "slug": "tomato-deep",
+          "name": "Tomato Deep",
+          "color": "#862612"
+        },
+        {
+          "slug": "leaf",
+          "name": "Leaf",
+          "color": "#2d6a3e"
+        },
+        {
+          "slug": "leaf-deep",
+          "name": "Leaf Deep",
+          "color": "#1f4d2c"
+        },
+        {
+          "slug": "field",
+          "name": "Field",
+          "color": "#1d3d27"
+        },
+        {
+          "slug": "mist",
+          "name": "Mist",
+          "color": "#c9d3bf"
+        },
+        {
+          "slug": "yolk",
+          "name": "Yolk",
+          "color": "#eeb238"
+        },
+        {
+          "slug": "pine",
+          "name": "Pine",
+          "color": "#d6ae74"
+        },
+        {
+          "slug": "pine-2",
+          "name": "Pine 2",
+          "color": "#b88a4f"
+        },
+        {
+          "slug": "pine-3",
+          "name": "Pine 3",
+          "color": "#7d5a2f"
+        }
+      ]
+    },
+    "spacing": {
+      "blockGap": null
+    },
+    "typography": {
+      "defaultFontSizes": false,
+      "fontFamilies": [
+        {
+          "name": "Alfa Slab One",
+          "slug": "alfa-slab-one",
+          "fontFamily": "\"Alfa Slab One\", Georgia, serif"
+        },
+        {
+          "name": "Courier Prime",
+          "slug": "courier-prime",
+          "fontFamily": "\"Courier Prime\", \"Courier New\", monospace"
+        },
+        {
+          "name": "Libre Franklin",
+          "slug": "libre-franklin",
+          "fontFamily": "\"Libre Franklin\", system-ui, sans-serif"
+        },
+        {
+          "name": "Stardos Stencil",
+          "slug": "stardos-stencil",
+          "fontFamily": "\"Stardos Stencil\", \"Alfa Slab One\", serif"
+        }
+      ]
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "Header",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "Footer",
+      "area": "footer"
+    }
+  ]
+}
